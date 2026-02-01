@@ -60,7 +60,6 @@ namespace utility
                 Logger.Add("Enter the correct time(max value 1440)!");
                 UpdateHistory();
             }
-
             else 
             {
                 Program.ShutDownPc();
@@ -81,7 +80,6 @@ namespace utility
                 Logger.Add("Enter the correct time(max value 1440)!");
                 UpdateHistory();
             }
-
             else
             {
                 Program.RestartPc();
@@ -124,13 +122,11 @@ namespace utility
             if (remining > 0)
             {
                 elapsed = timer - remining;
-                //string time_print = TimeSpan.FromSeconds(remining).ToString(@"mm\:ss");
                 string time_print = TimeSpan.FromSeconds(remining).ToString(@"hh\:mm\:ss");
 
                 label3.Text = time_print + "|" + CreateProgressBar(elapsed, timer);
                 remining--;
             }
-
             else
             {
                 timer2.Stop();
@@ -149,12 +145,10 @@ namespace utility
             for (int i = 0; i < width; i++)
             {
                 bar.Append(i < filled ? "█" : "░");
-
             }
             bar.Append("]");
            
             return bar.ToString();
-
         }
     }
 }
