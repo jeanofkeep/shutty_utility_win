@@ -217,7 +217,7 @@ namespace utility
             MaximizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Shutty Utility v1.3.0 by vadii";
+            Text = "Shutty Utility v1.3.5 by vadii";
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ((System.ComponentModel.ISupportInitialize)fileSystemWatcher1).EndInit();
             ResumeLayout(false);

@@ -17,3 +17,23 @@ C:\Users\user\source\repos\shutty_utility_win-test\Shutty v1.1 .Net8\obj\Release
 C:\Users\user\source\repos\shutty_utility_win-test\Shutty v1.1 .Net8\obj\Release\net8.0-windows\shutty_utility.pdb
 C:\Users\user\source\repos\shutty_utility_win-test\Shutty v1.1 .Net8\obj\Release\net8.0-windows\shutty_utility.genruntimeconfig.cache
 C:\Users\user\source\repos\shutty_utility_win-test\Shutty v1.1 .Net8\obj\Release\net8.0-windows\ref\shutty_utility.dll
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\bin\Release\net8.0-windows\shutty_utility.exe
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\bin\Release\net8.0-windows\shutty_utility.deps.json
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\bin\Release\net8.0-windows\shutty_utility.runtimeconfig.json
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\bin\Release\net8.0-windows\shutty_utility.dll
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\bin\Release\net8.0-windows\shutty_utility.pdb
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\utility.Form1.resources
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\utility.Form2.resources
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\utility.Form3.resources
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\shutty_utility.Properties.Resources.resources
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\shutty_utility.csproj.GenerateResource.cache
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\shutty_utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\shutty_utility.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\shutty_utility.AssemblyInfo.cs
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\shutty_utility.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\shutty_utility.sourcelink.json
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\shutty_utility.dll
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\refint\shutty_utility.dll
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\shutty_utility.pdb
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\shutty_utility.genruntimeconfig.cache
+C:\Users\user\Downloads\shutty_utility_win-master\shutty_utility_win-master\obj\Release\net8.0-windows\ref\shutty_utility.dll

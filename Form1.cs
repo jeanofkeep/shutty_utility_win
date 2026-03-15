@@ -14,7 +14,6 @@ namespace utility
     public partial class Form1 : Form
     {
         int elapsed, remaining;
-
         int total_seconds = 1;
 
         const int max_value = 1441;
@@ -51,7 +50,7 @@ namespace utility
                 Logger.Add("Enter the correct time(max value 1440)!");
                 UpdateHistory();
             }
-            else if (Program.time <= min_value)
+            else if (Program.time < min_value)
             {
                 Logger.Add("Enter the correct time(min value 1)!");
                 UpdateHistory();
@@ -101,7 +100,6 @@ namespace utility
         //form2
         private void button5_Click(object sender, EventArgs e)
         {
-            this.Hide();
             Form2 info = new Form2(this);
             info.ShowDialog();
         }

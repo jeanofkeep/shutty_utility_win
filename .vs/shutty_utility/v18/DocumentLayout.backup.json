@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|c:\\users\\user\\downloads\\shutty_utility_win-master\\shutty_utility_win-master\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|c:\\users\\user\\downloads\\shutty_utility_win-master\\shutty_utility_win-master\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|c:\\users\\user\\downloads\\shutty_utility_win-master\\shutty_utility_win-master\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|c:\\users\\user\\downloads\\shutty_utility_win-master\\shutty_utility_win-master\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|c:\\users\\user\\downloads\\shutty_utility_win-master\\shutty_utility_win-master\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8F4682-3A5C-41EB-83CA-28A642FBAE89}|shutty_utility.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -59,20 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\Form3.cs",
               "RelativeToolTip": "Form3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-14T21:29:49.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -84,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAhwAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADgvwwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-14T21:28:06.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -121,13 +121,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\shutty_utility_win-master\\shutty_utility_win-master\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAuwGUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowGYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T21:08:17.041Z",
               "EditorCaption": ""

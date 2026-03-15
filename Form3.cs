@@ -14,15 +14,18 @@ namespace utility
         {
             InitializeComponent();
             _owner = owner;
+            this.ShowInTaskbar = false;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide();
             Form2 info = new Form2(_owner);
             info.ShowDialog();
+            this.Close();
         }
 
+        //copy buttons
         private void button1_Click(object sender, EventArgs e)
         {
             Clipboard.SetText(textBox1.Text);

@@ -17,6 +17,7 @@ namespace utility
         {
             InitializeComponent();
             _owner = owner;
+            this.ShowInTaskbar = false;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -30,6 +31,7 @@ namespace utility
             this.Hide();
             Form3 support = new Form3(_owner);
             support.ShowDialog();
+            this.Close();
         }
     }
 }
